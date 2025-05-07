@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410 2025\\TOR\\\u0421\u002B\u002B\\\u0414\u041E\u041C\u0410\u0428\u041D\u0415\u0415 \u041F\u041E \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042E\\\u0420\u0415\u0428\u0415\u041D\u0418\u042F\\\u0414\u041E\u041C\u0410\u0428\u041D\u0418\u0415 \u0417\u0410\u0414\u0410\u041D\u0418\u042F 2025\\\u0414\u041E\u041C\u0410\u0428\u041D\u0418\u0415 \u0420\u0410\u0411\u041E\u0422\u042B\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
