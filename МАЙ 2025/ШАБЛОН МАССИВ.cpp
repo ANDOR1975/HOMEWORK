@@ -19,6 +19,7 @@
 //
 //int main()
 //{
+ //       system("chcp 1251");
 //	int add[] = { 105,5,3,8,10 };
 //	double agg[] = { 1.2 , 999.6 , 6.7 , 111.6};
 //	cout << maxim(add,5);
