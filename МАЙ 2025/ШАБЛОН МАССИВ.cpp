@@ -28,28 +28,3 @@
 //
 
 
-#include<iostream>
-#include<cmath>
-#include<ctime>
-using namespace std;
-int main()
-{
-	setlocale(LC_ALL, "ru");
-	int a = 0;
-	int b = 0;
-	//cout << " введите число  -";
-	//cin >> a;
-	//cout << " введите второе число -";
-	//cin  >> b;
-	int const T = 4;
-	int ajj[T];
-	srand(time(NULL));
-	for (int i = 0; i < T; i++)
-	{
-		ajj[i] = rand() % 100 + 10;
-		cout << ajj[i] << "  ";
-	}
-
-
-
-}
