@@ -6,9 +6,8 @@
 ////    getWidth(), getHeight()
 ////    getArea() - вычисление площади
 ////    getPerimeter() - вычисление периметра
-//
+////******************************************************************
 //#include<iostream>
-//
 //class Rectangle
 //{
 //private:
@@ -23,6 +22,7 @@
 //		setWidth(w);
 //		setHeight(h);
 //	}
+//	//SETTERS****************************************************	
 //	// Установка ширины с проверкой на неотрицательность
 //	void setWidth(double w) 
 //	{
@@ -46,42 +46,33 @@
 //			std::exit(1);
 //		}
 //	}
-//
-//	void getWidth()
+//	//GETTERS****************************************************
+//	double getWidth()
 //	{
-//		std::cout << "Ширина прямоугольника: " << width << std::endl; // Вывод ширины
+//		return width;
 //	}	
-//	void getHeight()
+//	double getHeight()
 //	{
-//		std::cout << "Высота прямоугольника: " << height << std::endl; // Вывод высоты
+//		return  height;
 //	}
-//
 //	int getArea()
 //	{
-//		std::cout << "Площадь прямоугольника: " << width * height << std::endl; // Вывод площади
 //		return width * height; // Вычисление площади	
 //	}
-//	
 //	int getPerimeter()
 //	{
-//		std::cout << "Периметр прямоугольника: " << 2 * (width + height) << std::endl; // Вывод периметра
 //		return 2 * (width + height); // Вычисление периметра
 //	}	
-//
 //};	
-//
-//
 //int main()
 //{
 //	setlocale(LC_ALL, "Russian"); 
-//
 //	Rectangle rect1;
 //	rect1.setWidth(10.2);
 //	rect1.setHeight(5.6);
-//	rect1.getWidth(); // Вывод ширины прямоугольника
-//	rect1.getHeight(); // Вывод высоты прямоугольника
-//	rect1.getArea(); // Вычисление площади прямоугольника	
-//	rect1.getPerimeter(); // Вычисление периметра прямоугольника
-//	
+//	std::cout<<"ширина\t\t"<<rect1.getWidth() << '\n'; // Вывод ширины прямоугольника
+//	std::cout<<"высота\t\t"<<rect1.getHeight() << '\n'; // Вывод высоты прямоугольника
+//	std::cout<<"площадь\t\t"<<rect1.getArea() << '\n'; // Вычисление площади прямоугольника	
+//	std::cout<<"периметр\t"<<rect1.getPerimeter()<<'\n'; // Вычисление периметра прямоугольника
 //}
 //
