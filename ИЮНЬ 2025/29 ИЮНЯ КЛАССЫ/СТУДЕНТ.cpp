@@ -12,9 +12,6 @@
 //
 //#include<iostream>
 //#include<string>
-//
-//
-//
 //class Student {
 //private:
 //	std::string name;	
@@ -27,7 +24,6 @@
 //		setName(a);
 //		setAge(b);
 //		setGpa(c);
-//		
 //	}
 //	//SETTERS
 //	void setName(std::string a)
@@ -38,9 +34,7 @@
 //			std::exit(1);
 //		}
 //		name = a;	
-//		
 //	}
-//	
 //	void setAge(int b)
 //	{
 //		if (b < 16 || b > 100) {
@@ -48,7 +42,6 @@
 //			std::exit(1);	
 //		}
 //		age = b;
-//
 //	}	
 //	void setGpa(double c)
 //	{
@@ -59,8 +52,7 @@
 //		gpa = c;
 //		printInfo();
 //	}
-//
-//	 void printInfo() const
+//	 void printInfo() 
 //	{
 //		std::cout << "\nИмя: " << name << std::endl;
 //		std::cout << "Возраст: " << age << std::endl;
@@ -69,20 +61,17 @@
 //	 //GETTERS
 //	std::string getName() 
 //	 {
-//		 return name;
+//		return name;
 //	 }
 //	int getAge() 
 //	 {
 //		 return age;
 //	 }	
-//
 //	double getGpa() 
 //	 {
 //		 return gpa;
 //	 }	
-//	 
 //};
-//
 //int main()
 //{
 //	setlocale(LC_ALL, "ru");

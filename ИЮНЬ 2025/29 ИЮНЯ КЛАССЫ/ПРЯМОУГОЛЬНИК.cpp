@@ -55,11 +55,11 @@
 //	{
 //		return  height;
 //	}
-//	int getArea()
+//	double getArea()
 //	{
 //		return width * height; // Вычисление площади	
 //	}
-//	int getPerimeter()
+//	double getPerimeter()
 //	{
 //		return 2 * (width + height); // Вычисление периметра
 //	}	
@@ -67,9 +67,9 @@
 //int main()
 //{
 //	setlocale(LC_ALL, "Russian"); 
-//	Rectangle rect1;
-//	rect1.setWidth(10.2);
-//	rect1.setHeight(5.6);
+//	Rectangle rect1(1.1,2.6);
+//	//rect1.setWidth(10.2);//сеттер уже в теле конструктора.вызов лишний
+//	//rect1.setHeight(5.6);//сеттер уже в теле конструктора.вызов лишний
 //	std::cout<<"ширина\t\t"<<rect1.getWidth() << '\n'; // Вывод ширины прямоугольника
 //	std::cout<<"высота\t\t"<<rect1.getHeight() << '\n'; // Вывод высоты прямоугольника
 //	std::cout<<"площадь\t\t"<<rect1.getArea() << '\n'; // Вычисление площади прямоугольника	
