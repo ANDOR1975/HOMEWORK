@@ -17,7 +17,7 @@
 //	void print() const
 //	{
 //		std::cout << ear << " " << model << " " << rr[color] << std::endl;
-//	}	
+//	}	// способ вывода оинформации пуиём обращения к элементам массива
 //private:
 //	int ear;
 //	std::string model;
