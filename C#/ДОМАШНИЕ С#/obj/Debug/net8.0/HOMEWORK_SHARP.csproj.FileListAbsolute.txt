@@ -1,0 +1,28 @@
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\bin\Debug\net8.0\HOMEWORK_SHARP.exe
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\bin\Debug\net8.0\HOMEWORK_SHARP.deps.json
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\bin\Debug\net8.0\HOMEWORK_SHARP.runtimeconfig.json
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\bin\Debug\net8.0\HOMEWORK_SHARP.dll
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\bin\Debug\net8.0\HOMEWORK_SHARP.pdb
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.GeneratedMSBuildEditorConfig.editorconfig
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.AssemblyInfoInputs.cache
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.AssemblyInfo.cs
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.csproj.CoreCompileInputs.cache
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.dll
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\obj\Debug\net8.0\refint\HOMEWORK_SHARP.dll
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.pdb
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.genruntimeconfig.cache
+E:\УЧЁБА 2025\TOR\С++\ДОМАШНЕЕ ПО ПРОГРАМИРОВАНИЮ\РЕШЕНИЯ\ДОМАШНИЕ С#\obj\Debug\net8.0\ref\HOMEWORK_SHARP.dll
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.GeneratedMSBuildEditorConfig.editorconfig
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.AssemblyInfoInputs.cache
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.AssemblyInfo.cs
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.csproj.CoreCompileInputs.cache
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.dll
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\obj\Debug\net8.0\refint\HOMEWORK_SHARP.dll
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.pdb
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\bin\Debug\net8.0\HOMEWORK_SHARP.exe
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\bin\Debug\net8.0\HOMEWORK_SHARP.deps.json
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\bin\Debug\net8.0\HOMEWORK_SHARP.runtimeconfig.json
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\bin\Debug\net8.0\HOMEWORK_SHARP.dll
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\bin\Debug\net8.0\HOMEWORK_SHARP.pdb
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\obj\Debug\net8.0\HOMEWORK_SHARP.genruntimeconfig.cache
+E:\УЧЁБА 2025\TOR\С#\ДОМАШНИЕ РАБОТЫ\ДОМАШНИЕ С#\obj\Debug\net8.0\ref\HOMEWORK_SHARP.dll
